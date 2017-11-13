@@ -12,29 +12,6 @@
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}
-	"CasualButton"
-	{
-		"command" "play_casual"
-		"OnlyAtMenu" "1"
-		"tooltip" "Play Casual"
-		"subimage"	"glyph_multiplayer"
-	}
-	"CompetitiveButton"
-	{
-		"command" "play_competitive"
-		"OnlyAtMenu" "1"
-		"tooltip" "Play Competitive"
-		"subimage"	"glyph_practice"
-	}
-	"MvMButton"
-	{
-		"command" "play_mvm"
-		"OnlyAtMenu" "1"
-		"tooltip" "Play MvM"
-		"subimage"	"glyph_coop"
-	}
-	
-	// These buttons get positioned by the MainMenuOverride.res
 	"CreateServerButton"
 	{
 		"label" "#GameUI_GameMenu_CreateServer"
@@ -61,10 +38,10 @@
 		"command"		"engine open_charinfo"
 		"subimage"		"glyph_items"
 	}
-	"ReplayBrowserButton"
+	"Console"
 	{
-		"label" "#GameUI_GameMenu_ReplayDemos"
-		"command" "engine replay_reloadbrowser"
+		"label" ""
+		"command" "engine showconsole"
 		"subimage" "glyph_tv"
 	}
 	"AchievementsButton"

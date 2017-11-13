@@ -9,7 +9,7 @@
 		"enabled"		"1"
 		"xpos"			"c123"	[$WIN32]
 		"xpos_minmode"	"c-46"	[$WIN32]
-		"ypos"			"r74"	[$WIN32]
+		"ypos"			"r91"	[$WIN32]
 		"ypos_minmode"	"r178"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
@@ -36,7 +36,7 @@
 		"fieldName"		"ItemEffectMeterLabel"
 		"font"			"ChatFont"
 		"xpos"			"8"
-		"xpos_minmode"			"-6"
+		"xpos_minmode"			"-5"
 		"ypos"			"11"
 		"ypos_minmode"			"13"
 		"zpos"			"6"
@@ -73,6 +73,5 @@
 		"wide_minmode"	"58"
 		"tall_minmode"	"6"			
 
-	}				
-	
+	}
 }
