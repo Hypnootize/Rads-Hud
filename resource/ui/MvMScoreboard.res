@@ -150,7 +150,7 @@
 			"textAlignment" "north-west"
 			"xpos"			"8"
 			"ypos"			"8"
-			"wide"			"200"
+			"wide"			"0"
 			"fgcolor"		"tanlight"
 		}
 		
